@@ -18,6 +18,8 @@ from IPython.core.pylabtools import figsize
 # Set default font size
 plt.rcParams['font.size'] = 24
 
+#
+
 # Internal ipython tool for setting figure size
 
 
