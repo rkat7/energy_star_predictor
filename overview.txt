@@ -1,0 +1,3 @@
+This ML workflow starts from importing the datasets and the necessary modules, cleaning the data and preprocessing it, feature selection and feature engineering etc.
+It also evaluates the most appropriate model to use (Gradient boosting in this case) among several models. After that, it does hyperparameter tuning.
+Then improvising and interpreting the model is done.
